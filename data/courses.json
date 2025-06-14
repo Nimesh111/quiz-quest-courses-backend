@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Introduction to Web Development",
+    "description": "Learn HTML, CSS, and JavaScript from scratch with hands-on projects.",
+    "duration": "12 weeks",
+    "price": "$99",
+    "category": "Programming",
+    "level": "Beginner",
+    "image": "https://images.unsplash.com/photo-1517077304055-6e89abbf09b0?w=400&h=250&fit=crop",
+    "students": 1250,
+    "rating": 4.8,
+    "id": 1,
+    "created_at": "2025-06-14T11:06:42.566755",
+    "updated_at": "2025-06-14T11:06:42.566759"
+  },
+  {
+    "title": "Data Science Fundamentals",
+    "description": "Master Python, statistics, and machine learning for data analysis.",
+    "duration": "16 weeks",
+    "price": "$149",
+    "category": "Data Science",
+    "level": "Intermediate",
+    "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=400&h=250&fit=crop",
+    "students": 890,
+    "rating": 4.9,
+    "id": 2,
+    "created_at": "2025-06-14T11:06:42.567514",
+    "updated_at": "2025-06-14T11:06:42.567518"
+  }
+]
